@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621406737423",
+    "project_id": "testfirebase-erwin",
+    "storage_bucket": "testfirebase-erwin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621406737423:android:b2f27c23ae3f6ac403ff7a",
+        "android_client_info": {
+          "package_name": "com.erwinsander.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621406737423-sa9m5vt3ep40rcnjfqmjl2rips7oflg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4KM5BrOTDCz_idXDxuDG1CjbPX3FlIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621406737423-sa9m5vt3ep40rcnjfqmjl2rips7oflg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
